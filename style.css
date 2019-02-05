@@ -1,0 +1,39 @@
+/*
+Theme Name: om-jd
+Theme URI: http://wordpress.org/themes/om-jd
+Author: Omkar Jadhav
+Author URI: http://wordpress.org/
+Description:This theme generaly userd for the registration page its just sample theme .
+Version: 1.0
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: om-jd
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+*{
+    margin:0;
+    margin:0;
+    }
+    body{
+        background-image:url(wood.jpg);
+        background-repeat:no-repeat;
+        background-size:100%;
+    }
+    .regis{
+    width:50%;
+    margin:auto;
+    border:2px solid white;
+    border-radius:3px;
+    background-color:rgba(0,0,0,0.8);
+    padding:50px;
+		placeholder-color:black;
+    }
+    #tem{
+    align: center;
+      width:400px;
+      padding:5px;
+    border-bottom:2px solid;
+    background-color:#D8D8D8;
+    }
+    
